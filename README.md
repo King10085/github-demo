@@ -6,6 +6,7 @@
 ### git branch --set-upstream-to origin/main
 ### git fetch
 ### git merge --allow-unrelated-histories
+### git config push.default upstream
 ### git push
 ## 三.疯了
 ## 四.master
